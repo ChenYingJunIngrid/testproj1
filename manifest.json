@@ -1,6 +1,6 @@
 {
-    "name": "testproj1",
-    "short_name": "testproj1",
+    "name": "projects",
+    "short_name": "projects",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
